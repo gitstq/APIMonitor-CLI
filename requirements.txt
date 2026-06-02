@@ -1,0 +1,18 @@
+# APIMonitor-CLI
+# Zero dependencies - Python standard library only
+
+# Core requirements (all built-in)
+# - argparse (stdlib)
+# - json (stdlib)
+# - sys (stdlib)
+# - os (stdlib)
+# - datetime (stdlib)
+# - typing (stdlib)
+# - re (stdlib)
+# - csv (stdlib)
+# - hashlib (stdlib)
+# - time (stdlib)
+
+# Optional (for enhanced features)
+# pytest>=7.0.0  # For running tests
+# pytest-cov>=4.0.0  # For coverage reports
